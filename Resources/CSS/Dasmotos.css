@@ -1,0 +1,44 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight:bold;
+    color: khaki;
+    background-image: url("../Pictures/Tiles.webp");
+    text-align:center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+}
+
+.Brushes {
+    background-color: mediumspringgreen;
+}
+
+
+.Frames {
+    background-color: lightcoral;
+}
+
+.Paints {
+    background-color: skyblue;
+}
+
+p {
+    font-family: Helvetica;
+    display:inline-block;
+    width:0;
+    min-width:100%;
+}
+
+.spec_text {
+    font-weight: bold;
+    color: blue;
+}
+
+.spacing {
+    display:inline-block;
+}
